@@ -11,3 +11,5 @@ Author's sites:
 http://www.mikexcohen.com/
 
 http://sincxpress.com/
+
+https://www.udemy.com/course/linear-algebra-theory-and-implementation/

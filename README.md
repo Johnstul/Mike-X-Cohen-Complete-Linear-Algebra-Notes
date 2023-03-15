@@ -1,5 +1,7 @@
 # Mike-X-Cohen-Complete-Linear-Algebra-Notes
 
+(Currently chapter 2 only)
+
 My Python notes / notebooks based on Mike X Cohen's videos on Complete Linear Algebra: Theory and Implementation
 
 All code was originally authored by Mike X Cohen.

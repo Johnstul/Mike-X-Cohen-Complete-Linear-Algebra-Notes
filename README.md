@@ -13,3 +13,9 @@ http://www.mikexcohen.com/
 http://sincxpress.com/
 
 https://www.udemy.com/course/linear-algebra-theory-and-implementation/
+
+You can also use the Nbviewer Online page to view the notebook:
+
+https://nbviewer.jupyter.org/
+
+https://nbviewer.org/github/Johnstul/Mike-X-Cohen-Complete-Linear-Algebra-Notes/blob/master/mike_x_lin_alg_Chapter2_2a.ipynb
